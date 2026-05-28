@@ -1,0 +1,30 @@
+1;Avengers Endgame;Action;Sedang Tayang;95;5
+2;Spider Man No Way Home;Action;Sedang Tayang;88;12
+3;The Batman;Action;Sedang Tayang;76;24
+4;Fast Furious 9;Action;Akan Tayang;65;35
+5;John Wick 4;Action;Sedang Tayang;90;10
+6;Insidious;Horror;Sedang Tayang;70;30
+7;The Nun;Horror;Akan Tayang;50;50
+8;Annabelle;Horror;Sedang Tayang;45;55
+9;Pengabdi Setan;Horror;Sedang Tayang;85;15
+10;KKN Desa Penari;Horror;Akan Tayang;92;8
+11;Frozen 2;Animasi;Sedang Tayang;60;40
+12;Toy Story 4;Animasi;Sedang Tayang;58;42
+13;Minions;Animasi;Akan Tayang;40;60
+14;Moana;Animasi;Sedang Tayang;75;25
+15;Encanto;Animasi;Akan Tayang;35;65
+16;Interstellar;SciFi;Sedang Tayang;80;20
+17;Inception;SciFi;Sedang Tayang;89;11
+18;Oppenheimer;SciFi;Akan Tayang;55;45
+19;Top Gun Maverick;Action;Sedang Tayang;93;7
+20;Mission Impossible;Action;Sedang Tayang;82;18
+21;Doctor Strange;Action;Akan Tayang;67;33
+22;Black Panther;Action;Sedang Tayang;91;9
+23;Aquaman;Action;Sedang Tayang;73;27
+24;Transformers;SciFi;Akan Tayang;64;36
+25;Joker;Drama;Sedang Tayang;78;22
+26;Deadpool;Comedy;Sedang Tayang;87;13
+27;Cars;Animasi;Sedang Tayang;49;51
+28;Up;Animasi;Akan Tayang;52;48
+29;Coco;Animasi;Sedang Tayang;69;31
+30;Elemental;Animasi;Akan Tayang;44;56
